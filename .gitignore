@@ -1,0 +1,7 @@
+# For frontend ignored files
+frontend/node_modules
+
+
+
+# For backend ignored files
+backend/node_modules
